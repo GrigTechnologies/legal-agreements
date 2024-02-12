@@ -8,7 +8,7 @@ RETURNS
 All returns must be postmarked within seven (7) days of the purchase date. All returned items must be in new and unused condition, with all original tags and labels attached.
 RETURN PROCESS
 
-To return an item, please email customer service at support@ventory.co.in to obtain a Return Merchandise Authorisation (RMA) number. After receiving a RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your return to the following address:
+To return an item, please email customer service at support@ventory.in to obtain a Return Merchandise Authorisation (RMA) number. After receiving a RMA number, place the item securely in its original packaging and include your proof of purchase, then mail your return to the following address:
 
 GRIG Technologies Private Limited Attn: Returns
 RMA #
@@ -34,4 +34,4 @@ Please Note
 
 If you have any questions concerning our return policy, please contact us at:
 
-support@ventory.co.in
+support@ventory.in

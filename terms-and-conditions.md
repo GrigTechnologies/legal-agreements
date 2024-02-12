@@ -6,9 +6,9 @@ Last updated February 7, 2024
 
 We are GRIG Technologies Pvt Ltd ('Company', 'we', 'us', or 'our'), a company registered in India at Home, Hyderabad, Telengana 500048.
 
-We operate the website http://www.ventory.co.in (the 'Site'), the mobile application Ventory (the 'App'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').
+We operate the website https://ventory.in/ (the 'Site'), the mobile application Ventory (the 'App'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').
 
-You can contact us email at support@ventory.co.in, or by mail to Home, Hyderabad, Telengana 500048, India.
+You can contact us email at support@ventory.in, or by mail to Home, Hyderabad, Telengana 500048, India.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and GRIG Technologies Pvt Ltd, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -110,7 +110,7 @@ Subject to your compliance with these Legal Terms, including the 'PROHIBITED ACT
 solely for your personal, non-commercial use or internal business purpose.
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: support@ventory.co.in. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: support@ventory.in . If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 Any breach of these Intellectual Property Rights will constitute a material breach of our Legal Terms and your right to use our Services will terminate immediately.
@@ -291,7 +291,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 ### 16. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: http://www.ventory.co.in/privacy-and-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in India. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in India, then through your continued use of the Services, you are transferring your data to India, and you expressly consent to have your data transferred to and processed in India.
+We care about data privacy and security. Please review our Privacy Policy: http://www.ventory.in/privacy-and-policy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in India. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in India, then through your continued use of the Services, you are transferring your data to India, and you expressly consent to have your data transferred to and processed in India.
 
 <br>
 
@@ -383,11 +383,11 @@ There is no joint venture, partnership, employment or agency relationship create
 
 In order to resolve a complaint regarding the Services or to receive further information regarding use of the Services, please contact us at:
 
-[Contact Us](mailto:contact@ventory.co.in?subject=[GitHub])
+[Contact Us](mailto:contact@ventory.in?subject=[GitHub])
 
-GRIG Technologies Pvt Ltd
+GRIG Technologies Private Limited
 Home
 Hyderabad, Telengana 500048
 India
 
-support@ventory.co.in
+support@ventory.in
